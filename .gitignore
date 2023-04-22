@@ -1,0 +1,12 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.DS_Store
+
+# Maven
+target/
+
+# Configuration
+logs
+allure-results
